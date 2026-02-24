@@ -59,7 +59,11 @@ Delete file – permanently removes the file after confirmation.
 📸 Example
 text
 $ python quickedit.py
-<img width="514" height="133" alt="image" src="https://github.com/user-attachments/assets/fda58053-4bb1-4a4d-b647-fc4d5a4ad80b" />
+
+
+
+<img width="473" height="123" alt="image" src="https://github.com/user-attachments/assets/b60aba64-75f5-4f02-918d-e3dba03d321e" />
+
 
 
  1. Create file
@@ -67,7 +71,8 @@ $ python quickedit.py
  3. View the file
  4. Delete file
  5. Exit
- >>> 
+ >>>
+
 📝 Notes / Known Limitations
 No existence checks – If you try to read or delete a non‑existent file, the script will crash with an error.
 
