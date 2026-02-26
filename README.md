@@ -1,5 +1,13 @@
 🚀 QuickEdit – Simple Console File Manager
 
+
+<img width="623" height="285" alt="Screens" src="https://github.com/user-attachments/assets/f4d37c17-99fa-40d0-85d4-e8829aa2208a" />
+
+
+
+
+
+
 QuickEdit is a lightweight, menu‑driven console utility written in pure Python. It lets you create, edit (overwrite or append), view, and delete text files directly from your terminal. The tool features a colorful animated banner that adds a touch of style to your command‑line experience.
 
 ⚠️ Note: This script was created for learning purposes. It intentionally lacks some safety checks – use it with care (see Notes).
@@ -60,18 +68,15 @@ Delete file – permanently removes the file after confirmation.
 text
 $ python quickedit.py
 
+<img width="623" height="285" alt="Screens" src="https://github.com/user-attachments/assets/f4d37c17-99fa-40d0-85d4-e8829aa2208a" />
 
 
-<img width="473" height="123" alt="image" src="https://github.com/user-attachments/assets/b60aba64-75f5-4f02-918d-e3dba03d321e" />
 
 
 
- 1. Create file
- 2. Edit file
- 3. View the file
- 4. Delete file
- 5. Exit
- >>>
+
+
+
 
 📝 Notes / Known Limitations
 No existence checks – If you try to read or delete a non‑existent file, the script will crash with an error.
